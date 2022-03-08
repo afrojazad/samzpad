@@ -1,0 +1,10 @@
+{
+    "name": "samzpad/samzpad",
+    "type": "project",
+    "description": "The Samzpad Framework.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
